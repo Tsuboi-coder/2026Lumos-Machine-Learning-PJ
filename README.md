@@ -1,0 +1,2 @@
+# 2026Lumos_Machine_Learning_PJ
+横浜国立大学プログラミングサークルLumos 2026年度 機械学習PJ
